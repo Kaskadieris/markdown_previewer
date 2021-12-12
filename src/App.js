@@ -77,7 +77,7 @@ function App() {
     <div className="container">
       <div className="row">
         <div className="col-lg-6 my-3">
-          <h5 class="text-success text-center py-4">
+          <h5 className="text-success text-center py-4">
             <strong>Editor:</strong>
           </h5>
           <textarea
@@ -91,7 +91,7 @@ function App() {
           ></textarea>
         </div>
         <div className="col-lg-6 my-3">
-          <h5 class="text-success text-center py-4 ">
+          <h5 className="text-success text-center py-4 ">
             <strong>Preview:</strong>
           </h5>
           <div
